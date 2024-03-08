@@ -1,0 +1,30 @@
+.slot-container {
+  border: 2px solid #2d7ad4;
+  border-radius: 10px;
+  padding: 10px 15px 10px 50px;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.slot-id {
+  color: #2b7bd3;
+  font-weight: 500;
+}
+
+.slot-status {
+  font-weight: 700;
+  font-size: 25px;
+  flex: 1 !important;
+}
+
+.slot-status.active {
+  color: green;
+}
+
+.slot-status.inactive {
+  color: red;
+}
