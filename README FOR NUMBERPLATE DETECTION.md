@@ -15,7 +15,7 @@ Open a terminal or anconda prompt. Run the following commands to install the nec
 
 download pip. (normaly pip command is come with python. if you download python, this pip also download too. you can check this. run pip --version in your terminal) if there hasn't pip in here. you can download using this command. python get-pip.py
 
-download LIBRARIES download all the libraries at once. run this code in your terminal. pip install opencv-python pandas numpy ultralytics socketio
+download LIBRARIES download all the libraries at once. run this code in your terminal. pip install opencv-python pandas numpy 
 
 download these libraries separately. 
 pip install opencv-python 
