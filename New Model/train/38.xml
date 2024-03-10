@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>38.jpeg</filename>
+	<path>F:\ANP\IMG\train\38.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>822</ymin>
+			<xmax>472</xmax>
+			<ymax>865</ymax>
+		</bndbox>
+	</object>
+</annotation>
